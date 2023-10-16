@@ -10,7 +10,7 @@ import {
 } from 'react-icons/di';
 import {
   SiRedux,
-  SiSocketdotio,
+  SiDigitalocean,
   SiAmazonaws,
   SiChakraui,
   SiTailwindcss,
@@ -78,6 +78,9 @@ const TechSkills = () => {
       </li>
       <li className={s.techIcon}>
         <DiWordpress />
+      </li>
+      <li className={s.techIcon}>
+        <SiDigitalocean />
       </li>
       <li className={s.techIcon}>
         <AiFillCode />
