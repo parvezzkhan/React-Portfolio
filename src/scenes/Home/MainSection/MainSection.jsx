@@ -19,8 +19,9 @@ const MainSection = () => {
         <div style={{ paddingTop: 50 }}>
           <Typewriter
             strings={[
-              'Continuously Learning',
               'Full Stack Developer',
+              'Frontend Developer',
+              'Backend Developer',
             ]}
             wrapperClassName={s.typewriterWrapper}
             cursorClassName={s.typewriterCursor}
