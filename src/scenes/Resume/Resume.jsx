@@ -12,7 +12,7 @@ pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/$
 
 const resumeLink =
   // 'https://raw.githubusercontent.com/vsnaichuk/vsnaichuk/master/CV.pdf';
-  'https://drive.google.com/file/d/1rkttrXiHEoTxnIOO9wbO0fk5AcxTqVX4/view';
+  'https://drive.google.com/file/d/13s42SvCb-XuOCkvA5StzgamFeZRFhJut/view';
 
 const Resume = () => {
   const pdfWrapper = useRef(null);
